@@ -1,0 +1,3 @@
+ReferenceNo movieName TotalCost Date Time NumberOfCustomers 
+1,Frozen,72.5, 3-June-2020, 15:00,1
+2,Frozen,72.5, 3-June-2020, 15:00,1
