@@ -1,0 +1,3 @@
+ReferenceNo movieName TotalCost PaymentMethod Date Time
+1,Frozen,120,Cash, 3-June-2020, 15:00
+2,Frozen,60,Card, 3-June-2020, 15:00
